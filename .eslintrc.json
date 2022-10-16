@@ -22,36 +22,21 @@
     "prettier"
   ],
   "rules": {
-    "react/jsx-uses-react": [
-      "off"
-    ],
-    "react/react-in-jsx-scope": [
-      "off"
-    ],
+    "react/jsx-uses-react": ["off"],
+    "react/react-in-jsx-scope": ["off"],
     "react/jsx-filename-extension": [
       1,
       {
-        "extensions": [
-          ".js",
-          ".jsx"
-        ]
+        "extensions": [".js", ".jsx"]
       }
     ],
-    "react/jsx-props-no-spreading": [
-      "warn"
-    ],
-    "prettier/prettier": [
-      "error"
-    ],
-    "quotes": [
-      "error"
-    ],
-    "quote-props": [
-      "error"
-    ],
-    "jsx-quotes": [
-      "off",
-      "prefer-single"
-    ]
+    "react/jsx-props-no-spreading": ["warn"],
+    "prettier/prettier": ["error"],
+    "quotes": ["error"],
+    "quote-props": ["error"],
+    "jsx-quotes": ["off", "prefer-single"],
+    "no-unused-vars": ["warn"],
+    "no-console": ["warn"],
+    "react/jsx-fragments": ["warn"]
   }
 }

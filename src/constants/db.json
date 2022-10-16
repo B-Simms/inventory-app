@@ -1,0 +1,15 @@
+{
+  "freezer-chest": {
+    "contents": {
+      "000": {
+        "name": "Ground Beef",
+        "type": "Protein",
+        "amount-numeral": 1,
+        "amount-unit": "lb",
+        "date-purchased": "10/2/2022",
+        "date-expired": "10/10/2022",
+        "date-frozen": "10/2/2022"
+      }
+    }
+  }
+}
